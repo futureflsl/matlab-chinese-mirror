@@ -19,14 +19,5 @@
 <tr><td>[windows安装包]matlab r2017b安装包</td><td><a href="https://mbd.pub/o/bread/Z56clZ5u">下载</a></td></tr>
 <tr><td>[windows安装包]matlab r2016b安装包</td><td><a href="https://mbd.pub/o/bread/Z56clZ5s">下载</a></td></tr>
 <tr><td>[windows安装包]matlab r2016a安装包</td><td><a href="https://mbd.pub/o/bread/Z56clZ5r">下载</a></td></tr>
-<tr><td>[windows安装包]matlab r2023安装包</td><td><a href="https://mbd.pub/o/bread/Z56clZ5p">下载</a></td></tr>
-<tr><td>[windows安装包]matlab r2024安装包</td><td><a href="https://mbd.pub/o/bread/Z56clZ5q">下载</a></td></tr>
-<tr><td>[windows安装包]matlab r2021安装包</td><td><a href="https://mbd.pub/o/bread/Z56clZ1x">下载</a></td></tr>
-<tr><td>[windows安装包]matlab r2022安装包</td><td><a href="https://mbd.pub/o/bread/Z56clZ1y">下载</a></td></tr>
-<tr><td>[windows安装包]matlab r2019安装包</td><td><a href="https://mbd.pub/o/bread/Z56clZ1v">下载</a></td></tr>
-<tr><td>[windows安装包]matlab r2020安装包</td><td><a href="https://mbd.pub/o/bread/Z56clZ1w">下载</a></td></tr>
-<tr><td>[windows安装包]matlab r2017安装包</td><td><a href="https://mbd.pub/o/bread/Z56clZ1t">下载</a></td></tr>
-<tr><td>[windows安装包]matlab r2018安装包</td><td><a href="https://mbd.pub/o/bread/Z56clZ1u">下载</a></td></tr>
-<tr><td>[windows安装包]matlab r2016安装包</td><td><a href="https://mbd.pub/o/bread/Z56clZ1s">下载</a></td></tr>
 </tbody>
 </table>
